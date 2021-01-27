@@ -1,37 +1,16 @@
-## 奥特兰道夫州移民局
+## 奥州移民局
 
-You can use the [editor on GitHub](https://github.com/Phyphymama/Phyphymama.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+这是奥州的tuf网站。部门负责管理我州的出入境及居留事务。
+### 业务范围
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+外g人入-境-许-可的颁-发
+d联-邦自-治-州居-留证-明的签-署
+-’联-邦护照的颁发
 
-### Markdown
+### 联系方式
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# maniubi
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Phyphymama/Phyphymama.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+1.本站
+2.电话 +101-455-3446/+101-455-3446
+3.哥劳吉雅共和国那普拉市苍贫郡独立大道1号3447政府信箱
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
